@@ -1,6 +1,6 @@
 {
   "name": "ti-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Ti-cli is a command-line interface for Ti preprocessor.",
   "main": "lib/index.js",
   "scripts": {
