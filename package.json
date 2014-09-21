@@ -1,0 +1,32 @@
+{
+  "name": "ti-cli",
+  "version": "0.0.1",
+  "description": "Ti-cli is a command-line interface for Ti preprocessor.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/abruzzihraig/Ti-cli.git"
+  },
+  "keywords": [
+    "ti-preprocessor-cli",
+    "ti-cli",
+    "ti-preprocessor",
+    "ti"
+  ],
+  "author": "Abruzzi Hraig <abruzzi.hraig@gmail.com> (http://blog.angular.in/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abruzzihraig/Ti-cli/issues"
+  },
+  "homepage": "https://github.com/abruzzihraig/Ti-cli",
+  "devDependencies": {
+    "mocha": "^1.21.4",
+    "chai": "^1.9.1"
+  },
+  "dependencies": {
+    "ti-preprocessor": "^0.1.0"
+  }
+}
