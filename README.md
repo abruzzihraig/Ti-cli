@@ -1,5 +1,5 @@
-Ti-cli
-======
+#Ti-cli
+[![Build Status](https://travis-ci.org/abruzzihraig/Ti-cli.svg?branch=v0.1.0)](https://travis-ci.org/abruzzihraig/Ti-cli) [![Code Climate](https://codeclimate.com/github/abruzzihraig/Ti-cli/badges/gpa.svg)](https://codeclimate.com/github/abruzzihraig/Ti-cli)
 
 Ti-cli is a command-line interface for [Ti preprocessor](https://github.com/abruzzihraig/Ti).
 
