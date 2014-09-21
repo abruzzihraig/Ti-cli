@@ -28,5 +28,9 @@
   },
   "dependencies": {
     "ti-preprocessor": "^0.1.0"
+  },
+  "preferGlobal": "true",
+  "bin": {
+    "ti" : "lib/index.js"
   }
 }
